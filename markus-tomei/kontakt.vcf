@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tomei;Markus;;;
+FN:Markus Tomei
+ORG:Elektro Rex GmbH
+TEL;TYPE=WORK,VOICE:+4984569678306
+TEL;TYPE=CELL:+4915254120217
+EMAIL;TYPE=WORK:markus.tomei@elektro-rex.de
+URL:https://www.elektro-rex.de/
+ADR;TYPE=WORK:;;Rudolf-Diesel-Straße 1;Lenting;;85101;Deutschland
+END:VCARD

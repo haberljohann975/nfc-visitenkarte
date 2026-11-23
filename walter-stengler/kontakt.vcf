@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Stengler;Walter;;;
+FN:Walter Stengler
+ORG:Elektro Rex GmbH
+TEL;TYPE=WORK,VOICE:+4984569678305
+EMAIL;TYPE=WORK:walter.stengler@elektro-rex.de
+URL:https://www.elektro-rex.de/
+ADR;TYPE=WORK:;;Rudolf-Diesel-Straße 1;Lenting;;85101;Deutschland
+END:VCARD
